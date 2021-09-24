@@ -1,3 +1,21 @@
 body {
   font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+}
+.background-color {
+  background-color: #607d8b;
+  size: 100px;
+}
+.title {
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 50px;
+  font-size: 50px;
+}
+.post-picture {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 200px;
 }
